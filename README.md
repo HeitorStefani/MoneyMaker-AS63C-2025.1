@@ -17,19 +17,8 @@ O **FinanceControl** é uma aplicação simples e intuitiva desenvolvida para aj
 
 ## 🚀 Tecnologias Utilizadas
 
-> *(Altere conforme sua stack)*
-
-- **Frontend:** React.js / Vue.js / HTML + CSS + JavaScript
-- **Backend:** Node.js / Python / PHP / Firebase
-- **Banco de Dados:** MongoDB / PostgreSQL / SQLite
-- **Autenticação:** Firebase Auth / JWT
-- **Gráficos:** Chart.js / D3.js
-
----
-
-## 📦 Instalação
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seunome/financecontrol.git
+- **Frontend:** React.js
+- **Backend:** Node.js
+- **Banco de Dados:** SQLite
+- **Autenticação:** JWT / Next Auth
+- **Gráficos:** Chart.js
