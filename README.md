@@ -17,12 +17,38 @@ O **FinanceControl** é uma aplicação simples e intuitiva desenvolvida para aj
 
 ## 📋 Funcionalidades
 
-- Registro de **receitas** e **despesas**
-- Categorização por tipo de gasto (ex: Alimentação, Transporte, Lazer, etc.)
-- Acompanhamento de **saldo mensal**
-- Relatórios e gráficos de análise financeira
-- Exportação de dados (.csv ou .pdf)
-- Interface amigável e responsiva
+🔐 Acesso e Autenticação
+  ✅ Cadastro de usuário
+  ✅ Login com autenticação segura
+  🔒 Criptografia de senha
+  🧾 Validação de dados no cadastro/login
+
+📊 Controle de Transações
+  ➕ Registro de receitas e despesas
+  💰 Visualização de saldo mensal atualizado
+  ✏️ Edição e exclusão de transações
+  🗂️ Categorização de transações (ex: alimentação, transporte)
+  🔎 Filtros por data e categoria
+  ⏰ Lembrete de despesas fixas recorrentes
+  📤 Exportação de dados em PDF e CSV
+  
+📈 Relatórios e Análises
+  📊 Gráficos e relatórios financeiros
+  📉 Análise de gastos por categoria
+  ⚖️ Comparativo de receitas e despesas
+  
+📅 Orçamento e Planejamento
+  🎯 Cadastro e acompanhamento de metas financeiras mensais
+  💸 Definição de orçamentos por categoria
+  🏡 Planejamento de metas para grandes compras (ex: casa, carro, reforma)
+
+🧮 Cálculos Financeiros
+  📐 Calculadora de juros simples
+  📈 Calculadora de juros compostos
+  💱 Calculadora de câmbio com:
+    Cotação atualizada
+    Cálculo de valor líquido e bruto
+    Inclusão de taxas de câmbio
 
 ---
 
