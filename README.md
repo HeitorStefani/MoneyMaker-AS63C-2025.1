@@ -61,16 +61,13 @@ O **FinanceControl** é uma ferramenta de controle financeiro pessoal, projetada
 
 ## 3. Documentação
 
-### 3.1 Gerencial
-- [Guia de Contribuição](#)
-
-### 3.2 Requisitos
+### 3.1 Requisitos
 - [Histórias de Usuário](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/HistoriasUsuario.md)  
 - [Requisitos Funcionais](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)  
 - [Requisitos Não Funcionais](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md)  
 - [Inspeção dos Requisitos (Defeitos)](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/Inspe%C3%A7%C3%A3o%20dos%20Requisitos_Defeitos%20Encontrados.pdf)  
 
-### 3.3 Prototipação
+### 3.2 Prototipação
 - [Canva](#)    
 
 ## 4. Tecnologias e Ferramentas
