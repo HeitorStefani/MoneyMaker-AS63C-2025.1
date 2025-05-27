@@ -3,7 +3,7 @@ A Tabela 2 a seguir contém os Requisitos Não Funcionais (RNF) elicitados utiza
 
 | ID | Requisito | Categoria | Prioridade | Requisitos relacionados |
 | --- | --- | --- | --- | --- |
-| RNF01 | A aplicação deve ter um tempo de resposta inferior a 2 segundos para qualquer operação comum. | DESEMPENHO | ALTA | RF01 a RF10 |
+| RNF01 | A aplicação deve ter um tempo de resposta inferior a 2 segundos para qualquer operação. | DESEMPENHO | ALTA | RF01 a RF10 |
 | RNF02 | O sistema deve estar disponível 99,5% do tempo mensal. | CONFIABILDADE | ALTA | TODOS OS RF |
 | RNF03 | A aplicação deve ser responsiva e funcionar em dispositivos móveis e desktops. | USABILIDADE | ALTA | RF01 a RF16 |
 | RNF04 | Os dados dos usuários devem ser armazenados de forma segura com criptografia. | SEGURANÇA | ALTA | RF01 - RF14 - RF16 |
