@@ -52,10 +52,15 @@ O **FinanceControl** é uma aplicação simples e intuitiva desenvolvida para aj
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+# Documentos
 
-- **Frontend:** React.js
-- **Backend:** Node.js
-- **Banco de Dados:** SQLite
-- **Autenticação:** JWT / Next Auth
-- **Gráficos:** Chart.js
+## Gerenciais
+- [Guia de Contribuição](#)
+
+## Requisitos
+- [Histórias de Usuário](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usuário/HistoriasUsuario.md)
+- [Requisitos Funcionais](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usuário/RF.md)
+- [Requisitos Não Funcionais](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usuário/RNF.md)
+- [Inspeção dos Requisitos: Defeitos Encontrados](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usuário/Inspeção%20dos%20Requisitos_Defeitos%20Encontrados.pdf)
+
+## Prototipação
