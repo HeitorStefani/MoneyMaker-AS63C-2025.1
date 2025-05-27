@@ -13,7 +13,7 @@ A Tabela 2 a seguir contém os Requisitos Não Funcionais (RNF) elicitados utiza
 | RNF08 | O sistema deve permitir escalabilidade para suportar crescimento no número de usuários. | ESCALABILIDADE | MÉDIA | TODOS OS RF |
 | RNF09 | Toda a comunicação entre cliente e servidor deve ser feita por meio de HTTPS. | SEGURANÇA | ALTA | TODOS OS RF |
 | RNF10 | O código deve ser modularizado para facilitar manutenção e futuras melhorias. | MANUTENIBILIDADE | MÉDIA | TODOS OS RF |
-| RNF11 | O sistema deve oferecer suporte multilíngue futuramente. | PORTABILIDADE | BAIXA | RF01  a RF15 |
+| RNF11 | O sistema deve oferecer suporte multilíngue em até um ano de funcionamento. | PORTABILIDADE | BAIXA | RF01  a RF15 |
 | RNF12 | O tempo de carregamento inicial da aplicação não deve exceder 3 segundos. | DESEMPENHO | ALTA | RF03 - RF16 |
 
 Tabela 2: Requisitos Não Funcionais
