@@ -57,6 +57,22 @@ O **FinanceControl** é uma ferramenta de controle financeiro pessoal, projetada
 - Conversor de moedas com taxas atualizadas  
 - Simulação de cenários financeiros  
 
+### 2.6 Análise de documento com IA
+- Upload de arquivos (contratos, extratos, etc.)
+- Análise e resumo inteligente com IA treinada
+- Garantia de integridade (a IA não altera os documentos)
+
+### 2.7 Visualização de investimentos
+- Exibição de dados de ações e bolsa de valores
+- Visualização de criptomoedas
+- Sem possibilidade de compra/venda na aplicação
+
+### 2.8 Interface e Usabilidade
+- Interface simples, limpa e intuitiva
+- Layout responsivo para dispositivos móveis
+- Acessível para usuários com pouca experiência tecnológica
+- Feedback visual claro nas interações
+
 ---
 
 ## 3. Documentação
