@@ -2,8 +2,10 @@
 **Desenvolvimento Ágil 2025/1**
 
 ---
+<img src="https://github.com/user-attachments/assets/7e4ca1b5-852e-4051-ba26-595bebfd45b3" width="50%">
 
-## Equipe
+
+## Equipe MoneyMaker
 
 | Nome                  | GitHub                                                                                         |
 |-----------------------|------------------------------------------------------------------------------------------------|
@@ -84,11 +86,11 @@ O **FinanceControl** é uma ferramenta de controle financeiro pessoal, projetada
 - [Inspeção dos Requisitos (Defeitos)](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/Inspe%C3%A7%C3%A3o%20dos%20Requisitos_Defeitos%20Encontrados.pdf)  
 
 ### 3.2 Prototipação
-- [Canva](#)    
+- [Figma](https://www.figma.com/proto/KicIZxnkEkOUs18VYzSWRU/Sem-t%C3%ADtulo?node-id=1-844&t=5bepYZSvqSaVEWWT-1)    
 
 ## 4. Tecnologias e Ferramentas
 
-- **Astah UML** — Modelagem e criação de diagramas UML
+- [**Astah UML** — Modelagem e criação de diagramas UML](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Sistema/ProjetoMonkeyFinal.asta)
 
 ---
 
