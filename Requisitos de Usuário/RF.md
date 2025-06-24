@@ -19,7 +19,7 @@ A Tabela 1 a seguir contém os Requisitos Funcionais (RF) elicitados utizando a 
 | RF14 | O sistema deve permitir o planejamento de metas para aquisição de bens de alto valor (ex: carro, casa, reforma). | MÉDIA | RF13 |
 | RF15 | O sistema deve permitir o gerenciamento de orçamentos mensais por categoria. | ALTA | RF05 - RF07 |
 | RF16 | O sistema deve possuir uma calculadora de juros simples e compostos. | MÉDIA | INDEPENDENTE |
-| RF17 | O sistema deve possuir uma calculadora de câmbio, considerando cotação atual e taxas, exibindo valor líquido e bruto. | MÉDIA | INTEGRAÇÃO COM API EXTERNA |
+| RF17 | O sistema deve possuir uma calculadora de câmbio, considerando cotação atual e taxas, exibindo valor bruto. | MÉDIA | INTEGRAÇÃO COM API EXTERNA |
 | RF18 | O sistema deve permitir o envio de documentos (contratos, extratos) para análise por IA. | ALTA | RF01 - RF03 |
 | RF19 | A IA deve gerar um resumo detalhado e informativo do conteúdo do arquivo, sem modificá-lo. | ALTA | RF18 |
 | RF20 | O sistema deve exibir informações atualizadas sobre ações da bolsa de valores e criptomoedas. | MÉDIA | INTEGRAÇÃO COM API EXTERNA |
