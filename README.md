@@ -86,7 +86,7 @@ O **FinanceControl** é uma ferramenta de controle financeiro pessoal, projetada
 - [Inspeção dos Requisitos (Defeitos)](https://github.com/HeitorStefani/MoneyMaker-AS63C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/Inspe%C3%A7%C3%A3o%20dos%20Requisitos_Defeitos%20Encontrados.pdf)  
 
 ### 3.2 Prototipação
-- [Figma](https://www.figma.com/proto/KicIZxnkEkOUs18VYzSWRU/Sem-t%C3%ADtulo?node-id=1-844&t=5bepYZSvqSaVEWWT-1)    
+- [Figma](https://www.figma.com/proto/KicIZxnkEkOUs18VYzSWRU/Sem-t%C3%ADtulo?node-id=45-162&p=f&t=8D7FQi42Ij6ILk5s-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=45%3A162)    
 
 ## 4. Tecnologias e Ferramentas
 
